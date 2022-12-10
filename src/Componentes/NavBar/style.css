@@ -1,0 +1,21 @@
+.ClaseCotnedora{
+    width: 100%;
+    height: 100vh;
+}
+.NavBar{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.items{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    
+}
+.enlace{
+    text-decoration: none;
+}
